@@ -1,0 +1,31 @@
+# Ignore MATLAB backup files
+*.asv
+
+# Ignore MATLAB temporary files
+*.m~  
+*.fig~  
+*.bak  
+
+# Ignore Simulink autosave and cache files
+*.slxc  
+*.slxp  
+*.mdl.autosave  
+*.autosave  
+
+# Ignore MATLAB workspace and preferences
+*.mat  
+*.mlappinstall  
+*.mlappbackup  
+*.mexa64  
+*.mexw64  
+*.mexmaci64  
+*.mexmaci  
+
+# Ignore Simulink generated code
+slprj/  
+sltbxproj/  
+codegen/  
+
+# Ignore MATLAB Live Script output files
+*.mlx~  
+*.mlx.bak  
