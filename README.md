@@ -1,5 +1,5 @@
 # 🎤 Voice Spectrum Analyzer
-![1](https://github.com/user-attachments/assets/4268ed62-5cf0-44c1-b32c-07d9ab720b4d)
+
 
 ## 📌 Overview
 The **Voice Spectrum Analyzer** is a MATLAB-based app designed to record, visualize, and analyze voice signals in both the time and frequency domains. Users can capture real-time audio and explore its **Amplitude, Phase, and Energy** spectra using Fast Fourier Transform (FFT).
