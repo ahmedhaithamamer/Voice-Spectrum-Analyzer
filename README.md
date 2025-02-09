@@ -23,5 +23,5 @@ The **Voice Spectrum Analyzer** is a MATLAB-based app designed to record, visual
 ### **1️⃣ Clone the Repository**
 ```bash
 git clone https://github.com/ahmedhaithamamer/Voice_Spectrum_Analyzer.git
-cd Voice_Spectrum_Analyzer
+cd Voice_Spectrum_Analyzer.mlapp
 
