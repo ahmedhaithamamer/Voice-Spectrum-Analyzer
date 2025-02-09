@@ -1,4 +1,5 @@
 # 🎤 Voice Spectrum Analyzer
+![DALL·E-2025-02-09-22 31](https://github.com/user-attachments/assets/7faa69f8-a9f9-4c77-a912-5489479f4174)
 
 
 ## 📌 Overview
