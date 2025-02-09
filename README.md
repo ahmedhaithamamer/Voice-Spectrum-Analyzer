@@ -14,7 +14,8 @@ The **Voice Spectrum Analyzer** is a MATLAB-based app designed to record, visual
 - 🛠️ **Interactive controls**: Zoom & Pan enabled for detailed analysis
 
 ## 🖥️ User Interface
-![App Screenshot](./screenshot.png) *(Replace with an actual screenshot of the app)*
+![Screenshot 2025-02-09 222157](https://github.com/user-attachments/assets/b74322f5-71ff-40a7-91ce-bb06705736bb)
+
 
 ## 🚀 Installation
 ### **1️⃣ Clone the Repository**
