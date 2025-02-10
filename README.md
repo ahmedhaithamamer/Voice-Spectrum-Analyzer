@@ -30,9 +30,7 @@ The **Voice Spectrum Analyzer** is a MATLAB-based app designed to record, visual
 
 ### Adjusting Parameters
 
-Sampling Rate: Modify fs in spectrum_analyzer.py to change the sample rate.
+. Sampling Rate: Modify fs in spectrum_analyzer.py to change the sample rate.
 
-FFT Window Size: Adjust N to change the FFT resolution.
-
-Microphone Input Device: Select an audio input device by modifying the device parameter.
+. FFT Window Size: Adjust N to change the FFT resolution.
 
