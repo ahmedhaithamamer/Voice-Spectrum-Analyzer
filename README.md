@@ -33,5 +33,4 @@ The **Voice Spectrum Analyzer** is a MATLAB-based app designed to record, visual
 7. click the start button.
 
 Copyright © 2025 Ahmed Haitham Amer
-Licensed under the MIT
 
