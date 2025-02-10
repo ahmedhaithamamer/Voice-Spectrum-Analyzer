@@ -25,7 +25,7 @@ The **Voice Spectrum Analyzer** is a MATLAB-based app designed to record, visual
 ## 🚀 Usage
 ### Running the Analyzer
 
-1. Download the **download file** and run the **.exe** file directly from it **or** download the **.mlapp** and run it from the MATLAB app designer.
+1. Download the **download file** and run the **.exe** file directly from it *or* download the **.mlapp** and run it from the MATLAB app designer.
 3. Connect a microphone to your system.
 4. Speak into the microphone and observe the real-time frequency visualization.
 5. Modify fs to change the sample rate.
