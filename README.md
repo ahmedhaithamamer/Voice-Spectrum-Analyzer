@@ -34,3 +34,6 @@ The **Voice Spectrum Analyzer** is a MATLAB-based app designed to record, visual
 
 - FFT Window Size: Adjust N to change the FFT resolution.
 
+Copyright © [2025] [Ahmed Haitham Amer]
+Licensed under the [MIT]
+
