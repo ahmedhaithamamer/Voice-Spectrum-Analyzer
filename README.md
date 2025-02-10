@@ -30,7 +30,7 @@ The **Voice Spectrum Analyzer** is a MATLAB-based app designed to record, visual
 4. Speak into the microphone and observe the real-time frequency visualization.
 5. Modify fs to change the sample rate.
 6. Modify time for the recording.
-7. click the start button.
+7. Click the start button.
 
 Copyright © 2025 Ahmed Haitham Amer
 
