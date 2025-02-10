@@ -22,9 +22,17 @@ The **Voice Spectrum Analyzer** is a MATLAB-based app designed to record, visual
 ![Screenshot (608)](https://github.com/user-attachments/assets/967525b7-5680-4712-8a65-2d40ec0ca2b5)
 
 
-## 🚀 Installation
-### **1️⃣ Clone the Repository**
-```bash
-git clone https://github.com/ahmedhaithamamer/Voice_Spectrum_Analyzer.git
-cd Voice_Spectrum_Analyzer.mlapp
+## 🚀 Usage
+###Running the Analyzer
+
+1. Connect a microphone to your system.
+2. Speak into the microphone and observe the real-time frequency visualization.
+
+###Adjusting Parameters
+
+Sampling Rate: Modify fs in spectrum_analyzer.py to change the sample rate.
+
+FFT Window Size: Adjust N to change the FFT resolution.
+
+Microphone Input Device: Select an audio input device by modifying the device parameter.
 
